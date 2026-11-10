@@ -24,14 +24,13 @@ CONCRETE_STRENGTH_PREDICTIOIN/
 ├── data/
 │   ├── README.md
 │   └── concrete_data.csv
-│
-├── outputs/
-│   |── predictions.csv
-│   |--results.txt
 |
-├── src/
+├── code/
 │   ├── main.py
-│   └── plots.py
+│   └── preprocessing.py
+│   └── analysis.py
+│   └── training.py
+│   └── evaluation.py
 │
 ├── .gitignore
 ├── README.md
@@ -45,8 +44,7 @@ CONCRETE_STRENGTH_PREDICTIOIN/
 | Component | Description |
 |---|---|
 | 📁 `data/` | Dataset used for house price prediction |
-| 📁 `src/` | Python code for data preprocessing, model training and prediction |
-| 📁 `outputs/` | Model evaluation results and prediction visualizations |
+| 📁 `Code/` | Python code for data preprocessing, model training and prediction |
 | 📁 `presentation/` | Project presentation slides |
 | 📁 `video/` | Project demonstration video link |
 | 📄 `requirements.txt` | Required Python packages |
