@@ -56,7 +56,7 @@ evaluate_model(
 )
 
 
-print("\n========== PROJECT COMPLETED ==========")
+print("\n========== PROJECT COMPLETED SUCCESSFULLY  ==========")
 print("Project: Concrete Compressive Strength Prediction")
 print("Algorithm: Multiple Linear Regression")
-print("Status: Successfully completed!")
+print("Status: Successfully Completed!")
