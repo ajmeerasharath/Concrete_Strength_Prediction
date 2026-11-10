@@ -1,4 +1,4 @@
-# concrete_strength_prediction_linear_regression_
+# Concrete_strength_prediction_linear_regression
 AI101_PROJECT
 
 <p align="center">
