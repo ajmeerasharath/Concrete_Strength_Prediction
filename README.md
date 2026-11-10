@@ -43,7 +43,7 @@ CONCRETE_STRENGTH_PREDICTIOIN/
 
 | Component | Description |
 |---|---|
-| 📁 `data/` | Dataset used for house price prediction |
+| 📁 `data/` | Dataset used for Concrete Strength Prediction |
 | 📁 `Code/` | Python code for data preprocessing, model training and prediction |
 | 📁 `presentation/` | Project presentation slides |
 | 📁 `video/` | Project demonstration video link |
