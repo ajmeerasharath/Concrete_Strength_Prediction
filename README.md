@@ -1,20 +1,7 @@
-# Concrete_strength_prediction_linear_regression
+
 AI101_PROJECT
 
-<p align="center">
-  <img src="banner.png" width="100%" alt="Project Banner">
-</p>
-
-
 # CONCRETE_STRENGTH_PREDICTION_LINEAR_REGRESSION
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-blue?logo=python">
-  <img src="https://img.shields.io/badge/Machine_Learning-purple">
-  <img src="https://img.shields.io/badge/Linear_Regression-cyan">
-  <img src="https://img.shields.io/badge/Scikit--Learn-orange?logo=scikitlearn">
-</p>
-
 
 AI101 MINI PROJECT: Concrete Strength Prediction using Linear Regression
 
