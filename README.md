@@ -32,7 +32,7 @@ Predicts the compressive strength of concrete (in MPa) from its mix ingredients 
 | Ajmeera Sharath | 2026MCB1507 | [ajmeerasharath](https://github.com/ajmeerasharath) | Documentation lead |
 | Kabir Jhamb | 2026AIB1045 | [kabir-jhamb](https://kabir-jhamb) | Execution lead |
 | Amit Patel | 2026EEB1319 | [GITHUB-HANDLE](https://github.com/GITHUB-HANDLE) | PPT lead |
-| Bhargav Sugat Shende | 2026EEB1335 | [GITHUB-HANDLE](https://github.com/GITHUB-HANDLE) | Video lead |
+| Bhargav Sugat Shende | 2026EEB1335 | [GITHUB-HANDLE](https://github.com/bhargavshende) | Video lead |
 
 All four members contributed code (see the commit history).
 
