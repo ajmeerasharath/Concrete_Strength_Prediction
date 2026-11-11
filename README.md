@@ -246,7 +246,7 @@ Algorithm: Multiple Linear Regression
 ## AI-use disclosure
 
 - **ChatGPT:** helped with project planning, understanding Python and machine learning concepts, the linear regression implementation, and debugging suggestions.
-- **Claude:** helped draft and structure this README. The documentation lead edited it, and the team checked every command and number against an actual run of the code.
+- **Claude:** helped draft and structure this README and run_all.py . The documentation lead edited it, and the team checked every command and number against an actual run of the code.
 - **How we checked it:** we ran the code ourselves, compared the printed metrics with the numbers in this README, and tested the setup steps on a fresh clone.
 - **Dataset and results:** no AI was used to generate the dataset or the results. All numbers come from running the code in this repository.
 
