@@ -6,11 +6,12 @@ from evaluation import evaluate_model
 import inspect
 
 project_folder = inspect.getfile(inspect.currentframe())
-project_folder = project_folder.replace("main.py", "")
+project_folder = project_folder.replace("Code\\main.py", "")
 
 print("\n========== LOADING DATASET ==========")
+dataset = load_dataset(project_folder + "data\\concrete_data.csv")
 
-dataset = load_dataset(project_folder + "Concrete_Data.csv")
+
 
 print("Dataset loaded successfully!")
 print("Dataset shape:", dataset.shape)
