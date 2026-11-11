@@ -2,7 +2,7 @@
 
 Predicts the compressive strength of concrete (in MPa) from its mix ingredients and age, using multiple linear regression in Python (pandas, NumPy, scikit-learn, Matplotlib).
 
-![AI101 Mini-Project](https://img.shields.io/badge/AI101-Mini--Project-blue) ![Python](https://img.shields.io/badge/Python-3.10%20to%203.13-green) ![Model](https://img.shields.io/badge/Model-Linear%20Regression-orange)
+![AI101 Mini-Project](https://img.shields.io/badge/AI101-Mini--Project-blue) ![Python](https://img.shields.io/badge/Python-green) ![Model](https://img.shields.io/badge/Model-Linear%20Regression-orange)
 
 **AI101: Data Science and AI Essentials with Python · School of AI & Data Engineering, IIT Ropar**
 
@@ -30,7 +30,7 @@ Predicts the compressive strength of concrete (in MPa) from its mix ingredients 
 | Member | Entry no. | GitHub | Role |
 |---|---|---|---|
 | Ajmeera Sharath | 2026MCB1507 | [ajmeerasharath](https://github.com/ajmeerasharath) | Documentation lead |
-| Kabir Jhamb | 2026AIB1045 | [kabir-jhamb](https://kabir-jhamb) | Execution lead |
+| Kabir Jhamb | 2026AIB1045 | [Kabir-Jhamb](https://github.com/kabir-jhamb) | Execution lead |
 | Amit Patel | 2026EEB1319 | [Amitpatel99-coder](https://github.com/Amitpatel99-coder) | PPT lead |
 | Bhargav Sugat Shende | 2026EEB1335 | [bhargavshende](https://github.com/bhargavshende) | Video lead |
 
@@ -104,7 +104,7 @@ concrete_strength_prediction_linear_regression_/
 
 **Requirements**
 
-- **Python 3.10 to 3.13, 64-bit.** Tested on Python 3.12.
+- **Python.** 
 - An internet connection for the first run (to install packages)
 - Git
 
