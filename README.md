@@ -49,7 +49,7 @@ The target is a continuous number (strength in MPa), so this is a **regression**
 ## Dataset
 
 - **File:** `data/concrete_data.csv`
-- **Source:** Concrete Compressive Strength dataset (I-Cheng Yeh), from the UCI Machine Learning Repository. Kaggle copy: [ADD-YOUR-KAGGLE-LINK]
+- **Source:** Concrete Compressive Strength dataset (I-Cheng Yeh), from the UCI Machine Learning Repository. Kaggle copy: https://www.kaggle.com/datasets/elikplim/concrete-compressive-strength-data-set
 - **Size:** 1,030 rows and 9 columns, with no missing values (25 duplicate rows are kept)
 - **Target:** `concrete_compressive_strength` (MPa)
 
