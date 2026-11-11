@@ -185,10 +185,6 @@ Project: Concrete Compressive Strength Prediction
 Algorithm: Multiple Linear Regression
 ```
 
-**Terminal screenshot of a successful run:**
-
-![Terminal output](docs/images/terminal_output.png)
-
 **Files created in `outputs/`:**
 
 | File | Contents |
@@ -225,11 +221,6 @@ Algorithm: Multiple Linear Regression
 | `fine_aggregate` | +0.0241 |
 | `coarse_aggregate` | +0.0179 |
 
-**Plots**
-
-| Actual vs predicted | Residuals | Correlation heatmap |
-|---|---|---|
-| ![Actual vs predicted](docs/images/actual_vs_predicted.png) | ![Residual plot](docs/images/residual_plot.png) | ![Correlation heatmap](docs/images/correlation_heatmap.png) |
 
 **What the results show**
 
@@ -251,14 +242,6 @@ Algorithm: Multiple Linear Regression
 - **The script seems stuck (manual run):** a graph window is open. Close it and the script continues.
 - **`destination path ... already exists` when cloning:** you already have a copy. Run `cd` into it and `git pull`, or clone into a different folder name.
 
----
-
-## Slides and video
-
-- **Slides (5):** [View the presentation](docs/slides%20(5).pdf)
-- **Project video (max 5 min):** [ADD-VIDEO-LINK-HERE](ADD-VIDEO-LINK-HERE)
-
----
 
 ## AI-use disclosure
 
