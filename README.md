@@ -2,8 +2,6 @@
 
 Predicts the compressive strength of concrete (in MPa) from its mix ingredients and age, using multiple linear regression in Python (pandas, NumPy, scikit-learn, Matplotlib).
 
-![AI101 Mini-Project](https://img.shields.io/badge/AI101-Mini--Project-blue) ![Python](https://img.shields.io/badge/Python-green) ![Model](https://img.shields.io/badge/Model-Linear%20Regression-orange)
-
 **AI101: Data Science and AI Essentials with Python · School of AI & Data Engineering, IIT Ropar**
 
 ---
