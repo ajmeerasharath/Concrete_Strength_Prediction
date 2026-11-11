@@ -44,7 +44,7 @@ def evaluate_model(y_train, y_test, train_predictions, test_predictions, output_
     plt.show()
     plt.close()
 
-    print("\n========== FINAL ANALYSIS ==========")
+    print("\n=========== FINAL ANALYSIS ==========")
     print("Testing R2:", round(test_metrics["R2"], 4))
     print("Testing MAE:", round(test_metrics["MAE"], 4), "MPa")
     print("Testing RMSE:", round(test_metrics["RMSE"], 4), "MPa")
