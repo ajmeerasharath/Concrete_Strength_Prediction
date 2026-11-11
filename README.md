@@ -229,18 +229,6 @@ Algorithm: Multiple Linear Regression
 
 ---
 
-## Troubleshooting
-
-- **`No compatible Python was found`:** install 64-bit Python 3.12 from python.org (on Windows, tick *py launcher*), then run `run_all.py` again.
-- **`python` is not recognized (Windows):** try `py run_all.py`.
-- **Package installation fails:** check your internet connection, turn off any VPN, and run the command again. If it still fails, delete the `.venv` folder and retry.
-- **PowerShell blocks activating the environment:** run `Set-ExecutionPolicy -Scope CurrentUser RemoteSigned`, then activate again.
-- **`Dataset not found`:** run the script from inside the cloned folder, and check that `data/concrete_data.csv` exists.
-- **`can't open file ... Code/main.py` on Linux/macOS:** the folder must be named `Code` with a capital C.
-- **The script seems stuck (manual run):** a graph window is open. Close it and the script continues.
-- **`destination path ... already exists` when cloning:** you already have a copy. Run `cd` into it and `git pull`, or clone into a different folder name.
-
-
 ## AI-use disclosure
 
 - **ChatGPT:** helped with project planning, understanding Python and machine learning concepts, the linear regression implementation, and debugging suggestions.
