@@ -80,19 +80,14 @@ concrete_strength_prediction_linear_regression_/
 ├── data/
 │   ├── README.md
 │   └── concrete_data.csv   # dataset (included, so no download step is needed)
-├── docs/
-│   ├── images/             # screenshots and plots used in this README
-│   └── slides (5).pdf      # project slides
+├── PPT (5).pdf             # project slides
+├── results/                # tables and graph which will be shown on running the code
 ├── outputs/                # created automatically when the code runs (tables + graphs)
 ├── run_all.py              # one-command setup and run script
 ├── requirements.txt        # pinned Python packages
 ├── .gitignore
 └── README.md
 ```
-
-> The folder is called `Code` with a capital C. `run_all.py` looks for `Code/main.py`, so the name must match exactly on Linux and macOS.
-
----
 
 ## How the project works
 
